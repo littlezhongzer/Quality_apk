@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin.zhongcheng">
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".PhotoActivity"> </activity>
+        <activity android:name=".VideoActivity"> </activity>
+        <activity android:name=".WifiActivity"> </activity>
+        <activity android:name=".RecordActivity"> </activity>
+        <activity android:name=".SavefileActivity"> </activity>
+        <activity android:name=".AIUIInterfaceActivity"> </activity>
+        <activity android:name=".AndroidInterfaceActivity"> </activity>
+        <activity android:name=".BluetoothSwitchActivity"> </activity>
+        <activity android:name=".BootTimesActivity"> </activity>
+        <activity android:name=".BootUpActivity"> </activity>
+        <activity android:name=".EthernetConnectActivity"> </activity>
+        <activity android:name=".EthernetSwitchActivity"> </activity>
+        <activity android:name=".FindBluetoothActivity"> </activity>
+        <activity android:name=".IDIdentifyActivity"> </activity>
+        <activity android:name=".LongPrinterActivity"> </activity>
+        <activity android:name=".PowerInterfaceActivity"> </activity>
+        <activity android:name=".PrinterActivity"> </activity>
+        <activity android:name=".RobotStudioConnectActivity"> </activity>
+        <activity android:name=".RobotStudioUltrasoundActivity"> </activity>
+        <activity android:name=".ROSActionActivity"> </activity>
+        <activity android:name=".ROSConnectActivity"> </activity>
+        <activity android:name=".RosTestConnectActivity"> </activity>
+        <activity android:name=".RosTestForwardActivity"> </activity>
+        <activity android:name=".RosTestRotateActivity"> </activity>
+        <activity android:name=".RTCTestActivity"> </activity>
+        <activity android:name=".ScreenTestActivity"> </activity>
+        <activity android:name=".ScreenTouchActivity"> </activity>
+        <activity android:name=".SLRosTestConnectActivity"> </activity>
+        <activity android:name=".SLRosTestForwardActivity"> </activity>
+        <activity android:name=".SLRosTestRotateActivity"> </activity>
+        <activity android:name=".SLRosTestStateActivity"> </activity>
+        <activity android:name=".SoftwareVersionActivity"> </activity>
+        <activity android:name=".SpeakerNormalVolumeActivity"> </activity>
+        <activity android:name=".SpeakerTouchVolumeActivity"> </activity>
+        <activity android:name=".StopActivity"> </activity>
+        <activity android:name=".ThreeDActivity"> </activity>
+        <activity android:name=".UltrasoundActivity"> </activity>
+        <activity android:name=".WakeupAngleActivity"> </activity>
+        <activity android:name=".WlanSwitchActivity"> </activity>
+        <activity android:name=".ClearResultActivity"> </activity>
+        <activity android:name=".ShutDownActivity"> </activity>
+
+
+
+
+
+
+
+
+
+
+
+
+    </application>
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
+</manifest>

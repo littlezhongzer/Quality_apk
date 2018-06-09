@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Quality</string>
+    <string name="photo">拍照</string>
+    <string name="video">摄像</string>
+    <string name="rcd">录音</string>
+    <string name="wifi">Wifi</string>
+    <string name="save">保存结果</string>
+    <string name="clear">重置结果</string>
+    <string name="aiuiinterface">AIUI接口测试</string>
+    <string name="aiuiwakeupangle">AIUI唤醒角度测试</string>
+    <string name="androidinterface">android接口测试</string>
+    <string name="bluetoothswitch">蓝牙开关</string>
+    <string name="boottimes">开机时间</string>
+    <string name="bootup">开机</string>
+    <string name="ethernetconnect">有线连接</string>
+    <string name="ethernetswitch">有线开关</string>
+    <string name="findbluetooth">蓝牙可被检测</string>
+    <string name="ididentify">身份证识别</string>
+    <string name="longprinter">长时间调用打印</string>
+    <string name="powerinterface">电源接口</string>
+    <string name="printer">打印机</string>
+    <string name="robotstudioconnect">RobotStudio底盘连接</string>
+    <string name="robotstudioultrasound">RobotStudio超声波检测</string>
+    <string name="rosaction">手机app检测EAI底盘动作</string>
+    <string name="rosconnect">手机app连接EAI底盘</string>
+    <string name="rostestconnect">ROS-TEST连接底盘</string>
+    <string name="rostestforward">ROS-TEST前进后退底盘</string>
+    <string name="rostestrotate">ROS-TEST旋转底盘</string>
+    <string name="rtctest">RTC测试</string>
+    <string name="screentest">屏幕显示</string>
+    <string name="screentouch">屏幕触摸点测试</string>
+    <string name="shutdown">关机</string>
+    <string name="slrostestconnect">ROS-TEST连接SLAM底盘</string>
+    <string name="slrostestforward">ROS-TEST前进后退SLAM底盘</string>
+    <string name="slrostestrotate">ROS-TEST旋转SLAM底盘</string>
+    <string name="slrosteststate">ROS-TEST获取SLAM底盘状态</string>
+    <string name="softwareversion">软件版本</string>
+    <string name="speakernormalvolume">喇叭播音检测</string>
+    <string name="speakertouchvolume">喇叭按键功能检测</string>
+    <string name="stop">急停开关功能检测</string>
+    <string name="threed">3D测距</string>
+    <string name="ultrasound">EAI手机app检测超声波状态</string>
+    <string name="wlanswitch">wifi开关测试</string>
+
+
+
+    <drawable name="color1">#339966</drawable>
+    <drawable name="color2">#fff</drawable>
+</resources>
